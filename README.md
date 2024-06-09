@@ -21,4 +21,4 @@ It doesn't work well for generic `kmalloc` calls but it works well with `kmem_ca
 For the `kmalloc` calls we simply use the max size of the object and indicate its potential kmalloc cache, which may notbe precise.
 This method can be fixed later to be more accurate by going down the use chain and find the hardcoded kmalloc caches.
 
-run it with: `./analyzer \`find <ROOT OF KERNEL SOURCE> -name "*.c.bc" \` --debug-verbose=0 2> struct_cache_res.txt`
+run it with: ```./analyzer `find <ROOT OF KERNEL SOURCE> -name "*.c.bc" ` --debug-verbose=0 2> struct_cache_res.txt```
