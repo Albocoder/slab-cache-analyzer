@@ -1,0 +1,8 @@
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/CMakeFiles/intrinsics_gen.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/CMakeFiles/omp_gen.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/CMakeFiles/acc_gen.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/CMakeFiles/edit_cache.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/CMakeFiles/rebuild_cache.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/lib/CMakeFiles/analyzer.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/lib/CMakeFiles/edit_cache.dir
+/home/rooter/kernel-static-analysis/kernel_analyzers/From_DirtyCred/kernel-analyzer/build/lib/CMakeFiles/rebuild_cache.dir
